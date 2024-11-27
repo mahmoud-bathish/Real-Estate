@@ -450,6 +450,9 @@ transition: .3s;
 
 /*=============== POPULAR ===============*/
 
+.popular--container {
+  padding: 1rem 0 5rem;
+}
 .popular--card {
   width: 290px;
   background-color: var(--container-color);
